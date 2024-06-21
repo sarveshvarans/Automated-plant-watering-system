@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
-PRODIGY_WD_01
+# AUTOMATED PLANT WATERING SYSTEM
+The IoT model in used for monitoring the plants on time basis and watering / irrigating it if needed.
