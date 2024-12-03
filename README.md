@@ -1,2 +1,2 @@
-# AUTOMATED PLANT WATERING SYSTEM
-The IoT model in used for monitoring the plants on time basis and watering / irrigating it if needed.
+# Automated plant watering system 
+The project is built of an IoT model which monitoring the plants on time basis and irrigate them if needed.
